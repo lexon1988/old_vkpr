@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response list="true">
+ <photo>
+  <pid>354279650</pid>
+  <aid>210054376</aid>
+  <owner_id>-85531082</owner_id>
+  <user_id>100</user_id>
+  <src>http://cs622522.vk.me/v622522301/15ddd/qmtV8I77x0s.jpg</src>
+  <src_big>http://cs622522.vk.me/v622522301/15dde/CWxV3EEgFyU.jpg</src_big>
+  <src_small>http://cs622522.vk.me/v622522301/15ddc/3wOWrHUCYGE.jpg</src_small>
+  <width>455</width>
+  <height>408</height>
+  <text/>
+  <created>1421893860</created>
+ </photo>
+ <photo>
+  <pid>354279651</pid>
+  <aid>210054376</aid>
+  <owner_id>-85531082</owner_id>
+  <user_id>100</user_id>
+  <src>http://cs622522.vk.me/v622522301/15de4/bKwSNZ2xF8w.jpg</src>
+  <src_big>http://cs622522.vk.me/v622522301/15de5/aZHiCZZ10zY.jpg</src_big>
+  <src_small>http://cs622522.vk.me/v622522301/15de3/ujomp63xDAg.jpg</src_small>
+  <width>313</width>
+  <height>283</height>
+  <text/>
+  <created>1421893860</created>
+ </photo>
+</response>
+

@@ -1,0 +1,187 @@
+﻿body{
+
+ background: white;
+
+/* background-image: url(img/bgcolor.png);*/
+margin: 0; 
+}
+
+
+
+
+
+
+font {
+font-family:Lucida Grande, Arial, tahoma, verdana, sans-serif;
+color: #3E6990;
+font-size:14px;
+ font-weight: 300;
+}
+
+
+.font1 {
+font-family: Lucida Grande, Arial, tahoma, verdana, sans-serif;
+color: #3E6990;
+font-size:16px;
+ font-weight: 600;
+
+}
+
+.font2 {
+font-family: Lucida Grande, Arial, tahoma, verdana, sans-serif;
+color: red;
+font-size:14px;
+}
+
+
+
+
+hr{
+
+border-top: none;
+border-left: none;
+
+}
+
+
+textarea{
+
+}
+
+input{
+
+}
+
+.main{
+
+margin:0 auto;
+margin-top:10px;
+
+width: 620px;
+
+
+}
+
+
+.button { background: #567CA3; 
+width:125px;
+height:30px;
+
+
+font-weight: bold;
+color: #FFFFFF; 
+text-align: center;  
+border: solid 0px #116DEC; 
+cursor: pointer; 
+border-radius: 2px;
+margin-left: 1px;
+
+}
+
+
+.button:hover { background: rgb(96,145,172);
+}
+
+
+.button2 { background: #92374D; 
+
+width:305px;
+height:30px;
+font-weight: bold;
+color: #FFFFFF; 
+text-align: center;  
+border: solid 0px #D43D2C; 
+cursor: pointer; 
+border-radius: 2px;
+margin-left: 2px;
+}
+
+.button2:hover { background: #A93D57;
+}
+
+
+
+.button3 
+{
+background: #A188A6; 
+width:620px;
+height:30px;
+margin-top: -15px;
+margin-left: 4px;
+font-size: 14px; 
+font-weight: bold;
+color: #FFFFFF; 
+text-align: center;  
+border: solid 0px #8460AC; 
+cursor: pointer; 
+border-radius: 2px;
+
+}
+
+.button3:hover { background: #B39FB7 ;
+}
+
+
+.button4 {
+background: #91C499; 
+
+width:620px;
+height:30px;
+margin-top: -13px;
+margin-left: 4px;
+font-size: 14px; 
+font-weight: bold;
+color: #FFFFFF; 
+text-align: center;  
+border: solid 0px #029757; 
+cursor: pointer; 
+border-radius: 2px;
+
+}
+
+
+.button4:hover { background: #A9D1AF;
+}
+
+
+a:link { 
+    color:#3E6990; /* Убирает подчеркивание для ссылок */
+   } 
+   a:visited { text-decoration: none; color:#3E6990; } 
+   a:active { text-decoration: none; }
+   a:hover {
+    text-decoration: none;
+    color: #70aadf/* Цвет ссылки */
+   } 
+}
+
+
+/*----------Text Styles----------*/
+.ws6 {font-size: 8px;}
+.ws7 {font-size: 9.3px;}
+.ws8 {font-size: 11px;}
+.ws9 {font-size: 12px;}
+.ws10 {font-size: 13px;}
+.ws11 {font-size: 15px;}
+.ws12 {font-size: 16px;}
+.ws14 {font-size: 19px;}
+.ws16 {font-size: 21px;}
+.ws18 {font-size: 24px;}
+.ws20 {font-size: 27px;}
+.ws22 {font-size: 29px;}
+.ws24 {font-size: 32px;}
+.ws26 {font-size: 35px;}
+.ws28 {font-size: 37px;}
+.ws36 {font-size: 48px;}
+.ws48 {font-size: 64px;}
+.ws72 {font-size: 96px;}
+.wpmd {font-size: 13px;font-family: Arial,Helvetica,Sans-Serif;font-style: normal;font-weight: normal;}
+/*----------Para Styles----------*/
+DIV,UL,OL /* Left */
+{
+ margin-top: 0px;
+ margin-bottom: 0px;
+  }
+}
+
+
